@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Program Files\Java\eclipse\example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1961271947.index
+\manager-web\src\main\java
+D:\Program Files\Java\eclipse\example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2361705589.index
+\manager-service\src\main\java
