@@ -1,7 +1,0 @@
-package cn.test.xu.service;
-
-import cn.xu.test.pojo.TbItem;
-
-public interface ItemService {
-	TbItem getItemById(long id);
-}
